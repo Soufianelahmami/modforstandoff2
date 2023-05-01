@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"Mod for Standoff 2 is a popular modification or mod for the popular first-person shooter game Standoff 2. The mod offers players an opportunity to enjoy a more enhanced gaming ","photo":"https://iili.io/HSnq9yv.jpg"},
+  {"title":"how to use this app 2","desc":"experience by providing them with new features, weapons, skins, maps, and gameplay mechanics. In this essay, we will explore in detail what Mod for Standoff 2 is, its history, ","photo":"https://iili.io/HSnfy8J.jpg"},
+  {"title":"helper pack 3","desc":"Standoff 2 is a multiplayer first-person shooter game that was first released in 2017 by Axlebolt, a Russian game development company. The game has since gained popularity worldwide,","photo":"https://iili.io/HSnfpaa.jpg"},
+  {"title":"advice mod 4","desc":"with over 100 million downloads on the Google Play Store alone. Standoff 2 is similar to other popular FPS games like Counter-Strike: Global Offensive (CS:GO) and Call of Duty.","photo":"https://iili.io/HSnfm3g.jpg"},
+  {"title":"tips pack 5","desc":"One of the reasons why Standoff 2 is so popular is because of its simple yet immersive gameplay mechanics. The game has two teams, the terrorists and the counter-terrorists,","photo":"https://iili.io/HSnqdjp.jpg"},
+  {"title":"advance mod 6","desc":"and each team has a specific objective to complete. For example, in the classic game mode, the terrorists must plant a bomb at one of two locations while the counter-terrorists must prevent them from doing so or defuse the bomb if it has been planted.","photo":"https://iili.io/HSnqJuR.jpg"},
+  {"title":"helper pack 7","desc":"Modding or modifying games is a common practice in the gaming community, and Standoff 2 is no exception. Modding involves changing or enhancing certain aspects of a game to provide a more enjoyable gaming experience for players.","photo":"https://iili.io/HSnqFnI.jpg"},
+  {"title":"how to use this app 8","desc":"Mod for Standoff 2 is one of the most popular mods for the game, and it has been around since the early days of Standoff 2's release.","photo":"https://iili.io/HSnq2ZN.jpg"}
    ]
  
 }
